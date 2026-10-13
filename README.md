@@ -43,12 +43,14 @@ Requirements
 - NumPy
 
 Run the Project :
+
 Option 1: Google Colab
 1. Open Google Colab.
 2. Create a new notebook or upload your project notebook.
 3. Run the cells in order.
 NumPy is commonly available in Google Colab. If needed, install it in a notebook cell:
 !pip install numpy
+
 Option 2: Run locally
 1. Install Python 3 from python.org.
 2. Install NumPy:
